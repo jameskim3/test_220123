@@ -1,0 +1,12 @@
+git status
+git add -A
+git commit -m "~~~"
+git push -u origin master
+
+
+rg_jzrb$
+
+git clone https://github.com/jameskim3/project1
+
+
+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
